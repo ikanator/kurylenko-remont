@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://kurylenko.pl/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/remonty-mieszkan/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/remont-lazienki/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/remont-kuchni/</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/wykonczenia-wnetrz/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/szpachlowanie/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/remonty-biur/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/remonty-budynkow/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/uslugi/remonty-kamienic/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/pakiety/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/o-firmie/</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://kurylenko.pl/kontakt/</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+</urlset>
