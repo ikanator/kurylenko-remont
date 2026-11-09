@@ -14,9 +14,7 @@ Static HTML website for Kurylenko renovation company in Kraków, Poland.
 | Interior finishing | `/uslugi/wykonczenia-wnetrz/` | Developer state → key |
 | Plastering | `/uslugi/szpachlowanie/` | Q3/Q4 plastering |
 | Office renovations | `/uslugi/remonty-biur/` | Offices and commercial |
-| Building renovations | `/uslugi/remonty-budynkow/` | Common areas, facades |
 | Old buildings | `/uslugi/remonty-kamienic/` | Historic tenements |
-| Packages | `/pakiety/` | Invest / Komfort / Styl / Premium |
 | About | `/o-firmie/` | Owner bio and values |
 | Contact | `/kontakt/` | Contact details |
 
