@@ -115,11 +115,13 @@
         <select id="c-type">
           <option value="mieszkanie"><span>Ремонт квартири під ключ</span></option>
           <option value="lazienka"><span>Ремонт ванної кімнати</span></option>
+          <option value="plytki">Укладання плитки + монтаж сантехніки</option>
           <option value="kuchnia"><span>Ремонт кухні</span></option>
           <option value="wykonczenie"><span>Оздоблення від стану забудовника</span></option>
           <option value="szpachlowanie"><span>Шпаклювання стін і стель</span></option>
         </select></label>
-      <label><span>Площа (м²)</span><input id="c-area" type="number" min="1" max="500" value="50" inputmode="numeric"></label>
+      <label><span id="c-area-label">Площа квартири (м²)</span><input id="c-area" type="number" min="20" max="200" value="50" inputmode="numeric"></label>
+      <p class="v2-note" id="c-hint" style="margin:-6px 0 0"></p>
       <fieldset><legend><span>Стандарт</span></legend>
         <label class="v2-radio"><input type="radio" name="c-std" value="eco"> <span>Економ</span></label>
         <label class="v2-radio"><input type="radio" name="c-std" value="std" checked> <span>Стандарт</span></label>

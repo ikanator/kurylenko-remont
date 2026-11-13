@@ -115,11 +115,13 @@
         <select id="c-type">
           <option value="mieszkanie"><span data-pl="Remont mieszkania pod klucz" data-ua="Ремонт квартири під ключ">Remont mieszkania pod klucz</span></option>
           <option value="lazienka"><span data-pl="Remont łazienki" data-ua="Ремонт ванної кімнати">Remont łazienki</span></option>
+          <option value="plytki"><span data-pl="Układanie płytek + biały montaż" data-ua="Укладання плитки + монтаж сантехніки">Układanie płytek + biały montaż</span></option>
           <option value="kuchnia"><span data-pl="Remont kuchni" data-ua="Ремонт кухні">Remont kuchni</span></option>
           <option value="wykonczenie"><span data-pl="Wykończenie od stanu deweloperskiego" data-ua="Оздоблення від стану забудовника">Wykończenie od stanu deweloperskiego</span></option>
           <option value="szpachlowanie"><span data-pl="Szpachlowanie ścian i sufitów" data-ua="Шпаклювання стін і стель">Szpachlowanie ścian i sufitów</span></option>
         </select></label>
-      <label><span data-pl="Powierzchnia (m²)" data-ua="Площа (м²)">Powierzchnia (m²)</span><input id="c-area" type="number" min="1" max="500" value="50" inputmode="numeric"></label>
+      <label><span id="c-area-label">Powierzchnia mieszkania (m²)</span><input id="c-area" type="number" min="20" max="200" value="50" inputmode="numeric"></label>
+      <p class="v2-note" id="c-hint" style="margin:-6px 0 0"></p>
       <fieldset><legend><span data-pl="Standard" data-ua="Стандарт">Standard</span></legend>
         <label class="v2-radio"><input type="radio" name="c-std" value="eco"> <span data-pl="Ekonomiczny" data-ua="Економ">Ekonomiczny</span></label>
         <label class="v2-radio"><input type="radio" name="c-std" value="std" checked> <span data-pl="Standard" data-ua="Стандарт">Standard</span></label>
